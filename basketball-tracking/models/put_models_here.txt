@@ -1,0 +1,5 @@
+# Models go here
+
+The trained model weights were excluded from git because they exceed GitHub's
+file-size limits. Download them from the original source listed in `../CREDITS.md`
+and place them in this folder.
